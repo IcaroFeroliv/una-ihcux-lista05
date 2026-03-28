@@ -7,6 +7,6 @@ O `Program.cs` utiliza duas bibliote, System e System.Thereading, o codigo funci
 3. Sempre no final do codigo, independente se deu erro ou não, é mostrado uma mensagem no final. 
 
 ## 📸 Evidência de Execução
-![Print do terminal rodando o projeto dando certo](./programa_executado.png)
+![Print do terminal rodando o projeto dando certo](./program_executado.png)
 ## 📸 Evidência de Execução
-![Print do terminal rodando o projeto dando erro](./programa_erro.png)
+![Print do terminal rodando o projeto dando erro](./program_erro.png)
